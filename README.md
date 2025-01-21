@@ -27,4 +27,4 @@ This project demonstrates how automation and data visualization can transform wo
 
 ---
 
-🔗 **Link to the Dashboard**
+🔗 **Link to the Dashboard** https://github.com/Jeduardocastel/9.-YouTube-Video-Trends-/tree/main/Project%2012
